@@ -2,7 +2,7 @@
  * LCD___USART___MatLab.c
  *
  * Created: 2015-03-22 17:29:54
- *  Author: komar
+ *  Author: komar 
  */ 
 
 
